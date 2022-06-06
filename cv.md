@@ -19,3 +19,15 @@ I recognize my strengths as purposefulness, diligence, the ability to work in a 
 * Git, GitHub
 * VS Code
 
+## **Code Example**
+
+function multiply(a, b){
+ return a * b
+}
+
+## **Education**
+* RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+
+## **Languages**
+* Russian - Native
+* English - B1 (Completed full-time courses at a private school)
