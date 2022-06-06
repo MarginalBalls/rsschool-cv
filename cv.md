@@ -22,7 +22,7 @@ I recognize my strengths as purposefulness, diligence, the ability to work in a 
 ## **Code Example**
 ```
 function multiply(a, b){
- return a * b
+return a * b
 }
 ```
 ## **Education**
