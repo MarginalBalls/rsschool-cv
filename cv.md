@@ -21,10 +21,10 @@ I recognize my strengths as purposefulness, diligence, the ability to work in a 
 
 ## **Code Example**
 
-function multiply(a, b){
+```function multiply(a, b){
  return a * b
 }
-
+```
 ## **Education**
 * RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
 
