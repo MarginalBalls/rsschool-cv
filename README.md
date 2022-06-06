@@ -1,1 +1,1 @@
-https://MarginalBalls.github.io/rsschool-cv/cv
+https://MarginalBalls.github.io/rsschool-cv/
