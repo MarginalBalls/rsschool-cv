@@ -20,8 +20,8 @@ I recognize my strengths as purposefulness, diligence, the ability to work in a 
 * VS Code
 
 ## **Code Example**
-
-```function multiply(a, b){
+```
+function multiply(a, b){
  return a * b
 }
 ```
